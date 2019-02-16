@@ -1,2 +1,3 @@
-# Hackathon-2019
-Hackathon with Omegapoint and digIT
+##A CLI application to search through PDF:s to find a certain String##
+
+Under development
